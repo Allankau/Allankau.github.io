@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Tom.png"
+  avatar           : "Saintommy.png"
   name             : "Allankau"
   pronouns         : # example: "she/her"  
   bio              : "Student of XMU, still learning"
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter         : "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
